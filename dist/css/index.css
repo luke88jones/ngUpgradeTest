@@ -1,0 +1,10 @@
+.container div {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black; }
+
+.container li {
+  cursor: pointer; }
+
+module-one-component div.selected-value {
+  border: none; }
